@@ -15,4 +15,4 @@ The library of React components that features Contencio's custom themes.
 ## How to use in local
 
 You can clone this repository and install all dependencies using `npm install`
-Then run `npm run storybook` and head to [https://localhost:6006][https://localhost:6006] to see all components.
+Then run `npm run storybook` and head to [http://localhost:6006][http://localhost:6006] to see all components.
